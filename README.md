@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fabiotk/fabiotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi, I'm Fábio 👋
+### Hi, I'm Fábio 👋
 
 - 💼 I'm an iOS Engineer at Itaú Unibanco <br>
 - 🇧🇷 Born in Juiz de Fora, Minas Gerais, Brazil <br>
