@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Fábio 👋
 
-- 💼 I'm an Staff iOS Engineer At PicPay Inc<br>
+- 💼 I'm an Staff iOS Engineer At PicPay <br>
 - 🇧🇷 Born in Juiz de Fora, Minas Gerais, Brazil <br>
 - 🇧🇷 Living in São Paulo, Brazil <br>
 
